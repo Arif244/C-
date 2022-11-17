@@ -1,0 +1,15 @@
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.csproj.AssemblyReference.cache
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.AssemblyInfoInputs.cache
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.AssemblyInfo.cs
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.csproj.CoreCompileInputs.cache
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\bin\Debug\net6.0\kodlar.exe
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\bin\Debug\net6.0\kodlar.deps.json
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\bin\Debug\net6.0\kodlar.runtimeconfig.json
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\bin\Debug\net6.0\kodlar.dll
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\bin\Debug\net6.0\kodlar.pdb
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.dll
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\refint\kodlar.dll
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.pdb
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\kodlar.genruntimeconfig.cache
+C:\Users\Arif\Desktop\c#\kodlar\kodlar\obj\Debug\net6.0\ref\kodlar.dll
